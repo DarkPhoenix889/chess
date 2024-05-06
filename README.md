@@ -1,7 +1,7 @@
  # Schach
  Schach. Das ist nicht nur der Name des Projektes sondern auch das Ziel davon, denn es soll ein Schachspiel erstellt werden, in welchem man die Figuren auf einem Brett sieht und steuern können soll.
 
-## Bausteine
+### Bausteine
 - ChessUI, Benutzeroberfläche mit Brett und allen Figuren
 - ChessLogic, Logik wie Figuren bewegt werden können und andere Figuren schlagen
   - Erst grundlegendes Bewegen der Figuren
